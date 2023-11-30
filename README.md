@@ -1,1 +1,1 @@
-# YaP
+# YaP - Yet Another Phonebook
